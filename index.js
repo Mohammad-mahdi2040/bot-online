@@ -16,4 +16,4 @@ client.on("ready", () => {
     }; setInterval(AliveVoice, 3000)
 });
 
-client.login('ODUzOTIyMTc4MDUwMjkzNzYw.YMcbAA.NKFlVCsuFXh4WK90bsY-AIxb2EA');
+client.login('');
