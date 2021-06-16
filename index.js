@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.once('ready', () => {
-	console.log('mohammad fake Online Shod!');
+	console.log('your-simlatour-bot-now-online!');
 });
 
 client.on("ready", () => {
@@ -16,4 +16,4 @@ client.on("ready", () => {
     }; setInterval(AliveVoice, 3000)
 });
 
-client.login('');
+client.login('you-bot-token');
