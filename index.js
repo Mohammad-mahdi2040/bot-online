@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.once('ready', () => {
-	console.log('your-simlatour-bot-now-online!');
+	console.log('Bot Now Ready!');
 });
 
 client.login('you-bot-token');
